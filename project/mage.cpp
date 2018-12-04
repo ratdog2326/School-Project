@@ -29,6 +29,9 @@ Mage::Mage(void)
     has_axe = false;
     has_magmis = true;
     has_fireball = true;
+	has_holy_sword = false;
+	has_holy_bow = false;
+	has_holy_fury = false;
     has_heal = true;
     arrows = 0;
     roll_stats(str, dex, att);

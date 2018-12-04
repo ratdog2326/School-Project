@@ -29,6 +29,9 @@ Rogue::Rogue(void)
     has_axe = false;
     has_magmis = false;
     has_fireball = false;
+	has_holy_sword = false;
+	has_holy_bow = false;
+	has_holy_fury = false;
     has_heal = true;
     arrows = 30;
     roll_stats(str, dex, att);

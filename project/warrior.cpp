@@ -27,6 +27,9 @@ Warrior::Warrior(void)
     has_dagger = false;
     has_bow = true;
     has_axe = true;
+	has_holy_sword = false;
+	has_holy_bow = false;
+	has_holy_fury = false;
     has_magmis = false;
     has_fireball = false;
     arrows = 10;
